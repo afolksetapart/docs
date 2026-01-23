@@ -12,7 +12,7 @@ If you are looking for a **non-technical overview** of the project, or are inter
 
 If you have additional questions, please don't hesitate to reach out at info@phillycommunitywireless.org.
 
-### [Informational Resources](./organization/resources/)
+### [Informational Resources](./resources/)
 Oerviews secondary resources on the problems of broadband access and digital inequity in urban cities like Philadelphia.
 
 ### [Hardware](./installations/hardware/)
